@@ -16,6 +16,6 @@ El mismo esta desarrollado en Python y requiere de las siguientes librerias exte
 
 Diseño 3D del mango/cabezal del videoendoscopio
 ![image](https://user-images.githubusercontent.com/68918444/214311123-e84dcd0c-88c2-4fe2-9a78-4a246bccf66d.png)
-
+![image](https://user-images.githubusercontent.com/68918444/214311679-c85aff62-27f3-4dbf-ba70-4281a083e8ab.png)
 
 
