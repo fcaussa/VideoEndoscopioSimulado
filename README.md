@@ -6,4 +6,5 @@ Este programa es la implementación de un videoendoscopio simulado para talleres
 El mismo esta desarrollado en Python y requiere de las siguientes librerias externas para su utilización
 
 >OpenCV - cv2
+
 >Numpy
